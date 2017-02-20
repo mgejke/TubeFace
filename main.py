@@ -195,7 +195,6 @@ def main():
         playlist_id = youtube.create_playlist(playlist_name, '')
         for video_id in ids:
             youtube.add_video_to_playlist(video_id, playlist_id)
-            # youtube.add_video_to_playlist(video_id, 'PLNwQv7A7yRupnVzaiKqwZvzXaW5Q9VL1e')
         
 
 if __name__ == '__main__':
