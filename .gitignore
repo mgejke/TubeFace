@@ -1,0 +1,6 @@
+__pycache__
+env/
+main.py-oauth2.json
+already_posted.txt
+client_secrets.json
+token.txt
