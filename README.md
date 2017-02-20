@@ -22,9 +22,9 @@ Steps before use
 Other
 =====
 
-As a default the script only checks 31 days back in time. 
-Playlist are generated as private. 
-Already posted video ids are stored in a local file. 
+As a default the script only checks 31 days back in time.  
+Playlist are generated as private.  
+Already posted video ids are stored in a local file.  
     
     
     
