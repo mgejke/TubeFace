@@ -28,3 +28,6 @@ Already posted video ids are stored in a local file.
     
     
     
+Reason for creation
+===================
+https://www.youtube.com/channel/UC70PY_CQN5bR4W0UTdd5Mhw/playlists
