@@ -33,7 +33,7 @@ id_re = re.compile('.*(\?v=|ci=|.be\/)(.{11})')
 
 already_posted_file = 'already_posted.txt'
 
-dry_run = True
+dry_run = False
 max_past = 31
 
 
